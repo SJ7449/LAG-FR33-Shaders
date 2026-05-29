@@ -1,5 +1,5 @@
 # LAG-FR33 Shaders
-## For Minecraft Java 1.21.1+
+## For Minecraft Java Fabric 1.21.1+
 ### Short Description:
 I decided to make lightweight shaders for my budget laptop and it went fantastic.
 Using any other "lightweight" shader nowadays leads to ~30-40 FPS averages maybe.
@@ -15,7 +15,7 @@ I started a new series, the D4Y series. It is a performance-first focussed shade
 
 ## Benchmarks
 
-I benchmarked 20 shaders to measure performance on my laptop with a Ryzen 5 7520U, 16GB LPDDR5, and the Radeon 610M iGPU.
+I benchmarked 20 shaders to measure performance on my laptop with a Ryzen 5 7520U, 16GB LPDDR5, and the Radeon 610M iGPU for Minecraft Java Fabric 1.21.1 on Prism Launcher.
  This was made inside of google spreadsheets to track the data easily. Below is an image of the data found among popular shaders, performance shaders, and my shaders when benchmarked in the same area idle with the game's tick speed frozen.
 
 ![Benchmarking Chart of Shaders](/assets/images/chart9.png)
