@@ -19,3 +19,21 @@ I benchmarked 20 shaders to measure performance on my laptop with a Ryzen 5 7520
  This was made inside of google spreadsheets to track the data easily. Below is an image of the data found among popular shaders, performance shaders, and my shaders when benchmarked in the same area idle with the game's tick speed frozen.
 
 ![Benchmarking Chart of Shaders](/assets/images/chart9.png)
+
+
+# Recommendations
+## What I Recommend to Use:
+
+### Best Performance:
+#### T0M0RR0W
+
+### Best Quality:
+#### MyFSR+
+
+### Best Quality & Performance
+#### LightFSR
+
+### My Personal Recommendation
+#### LightFSR
+
+## Thanks for reading!
