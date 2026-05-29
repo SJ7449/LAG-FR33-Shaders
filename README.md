@@ -1,4 +1,4 @@
-# Extremely Lightweight Shaders
+# LAG-FR33 Shaders
 ## For Minecraft Java 1.21.1+
 ### Short Description:
 I decided to make lightweight shaders for my budget laptop and it went fantastic.
